@@ -47,9 +47,37 @@ h1{
     width: 80%;
      
 }
-
+.experinece {
+    background-color: white;
+}
 .dream-big{
     display: flex;
     background-repeat: no-repeat;
     padding-top: 50px;
+}
+
+.left-experince{
+
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-bottom: 30px;
+    border-left: solid 5px red;
+}
+
+.right-experince{
+
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-bottom: 30px;
+    border-left: solid 5px blue;
 }
