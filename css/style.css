@@ -16,9 +16,10 @@ h1{
 
 .orange-color{
     color: orange;
+    motion: 0ch;
 }
 
-section{
+.top-bar{
     display: flex;
     background-image: url(/images/top-banner.png);
     background-repeat: no-repeat;
@@ -45,4 +46,10 @@ section{
 .half-width img{
     width: 80%;
      
+}
+
+.dream-big{
+    display: flex;
+    background-repeat: no-repeat;
+    padding-top: 50px;
 }
